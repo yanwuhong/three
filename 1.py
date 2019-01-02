@@ -4,3 +4,9 @@ def fun():
     def inner():
         print('hello')
     return inner
+
+print(111)
+
+print('my boy')
+
+print(234)
