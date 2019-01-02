@@ -6,3 +6,6 @@ def fun():
     return inner
 
 print(111)
+
+print('my boy')
+
